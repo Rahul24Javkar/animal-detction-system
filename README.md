@@ -51,5 +51,11 @@ animal-recognition-system/
 - └── README.md              # Project documentation
 
 
+## Contact
+For any questions or contributions, feel free to reach out:
+Rahul Javkar
+
+- Email: your-rahul.javkar@outlook.com
+- GitHub: https://github.com/Rahul24Javkar
 
 Feel free to customize the file to reflect your project structure and specifics! Let me know if you'd like help with additional sections or details. 😊

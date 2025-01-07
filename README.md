@@ -42,13 +42,13 @@ The **Animal Recognition System** is a machine learning-based solution designed 
 
 ## Project structure
 animal-recognition-system/
-├── data/                  # Dataset and preprocessing scripts
-├── models/                # Pre-trained models and weights
-├── notebooks/             # Jupyter notebooks for experimentation
-├── src/                   # Core implementation files
-├── app.py                 # Main application script
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
+- ├── data/                  # Dataset and preprocessing scripts
+- ├── models/                # Pre-trained models and weights
+- ├── notebooks/             # Jupyter notebooks for experimentation
+- ├── src/                   # Core implementation files
+- ├── app.py                 # Main application script
+- ├── requirements.txt       # Python dependencies
+- └── README.md              # Project documentation
 
 
 
